@@ -1,12 +1,15 @@
 {
-  "name": "git-repos",
+  "name": "jellyjelly3",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "cyp": "cypress open"
+    "cypress": "cypress open"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.1"
+  }
 }
